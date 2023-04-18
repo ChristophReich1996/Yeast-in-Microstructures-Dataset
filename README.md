@@ -18,6 +18,10 @@
   This repository includes the <b>official</b> and <b>maintained</b> <a href="https://pytorch.org/">PyTorch</a> <b>validation</b> (+ data loading & visualization) code of the Yeast in Microstructures dataset proposed in <a href="https://arxiv.org">An Instance Segmentation Dataset of Yeast Cells in Microstructures</a>.
 </p>
 
+```
+wget https://tudatalib.ulb.tu-darmstadt.de/bitstream/handle/tudatalib/3799/yeast_cell_in_microstructures_dataset.zip
+```
+
 ## Abstract
 
 *Extracting single-cell information from microscopy data requires accurate instance-wise segmentations. Obtaining
