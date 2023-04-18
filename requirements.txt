@@ -1,0 +1,4 @@
+torch>=1.0.0
+numpy
+matplotlib
+git+https://github.com/Lightning-AI/metrics.git

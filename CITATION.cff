@@ -1,0 +1,14 @@
+cff-version: 1.2.0
+message: "Code of the paper: An Instance Segmentation Dataset of Yeast Cells in Microstructures"
+authors:
+  - family-names: Reich
+    given-names: Christoph
+  - family-names: Prangemeier
+    given-names: Tim
+  - family-names: Françani
+    given-names: André O.
+  - family-names: Koeppl
+    given-names: Heinz
+title: "An Instance Segmentation Dataset of Yeast Cells in Microstructures"
+version: 0.1.0
+date-released: 2023-04-17
