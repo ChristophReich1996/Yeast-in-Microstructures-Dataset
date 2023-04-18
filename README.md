@@ -55,7 +55,7 @@ development of new cell segmentation approaches.*
 
 ## Installation
 
-The validation, data loading and visualization code can be installed as a Python package by running:
+The validation, data loading, and visualization code can be installed as a Python package by running:
 
 ```shell script
 pip install git+https://github.com/Lightning-AI/metrics.git  # Required until next torchmetrics release!
@@ -66,7 +66,7 @@ All dependencies are listed in [requirements.txt](requirements.txt).
 
 ## Dataformat
 
-The dataset is split into a training, validation and test set. Please refer to the paper for more information on this.
+The dataset is split into a training, validation, and test set. Please refer to the paper for more information on this.
 
 ```
 ├── test
