@@ -58,7 +58,6 @@ development of new cell segmentation approaches.*
 The validation, data loading, and visualization code can be installed as a Python package by running:
 
 ```shell script
-pip install git+https://github.com/Lightning-AI/metrics.git  # Required until next torchmetrics release!
 pip install git+https://github.com/ChristophReich1996/Yeast-in-Microstructures-Dataset.git
 ```
 

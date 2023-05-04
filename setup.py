@@ -16,7 +16,9 @@ setup(
     ],
     install_requires=[
         "torch>=1.0.0",
+        "torchmetrics @ git+https://github.com/Lightning-AI/torchmetrics.git@release/stable"
         "numpy",
         "matplotlib",
+        "kornia",
     ],
 )
