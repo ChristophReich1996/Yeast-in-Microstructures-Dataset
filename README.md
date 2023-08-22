@@ -86,9 +86,9 @@ The dataset is split into a training, validation, and test set. Please refer to 
 ```
 
 Every subset (train, val, and test) includes four different folders (`inputs`, `instances`, `classes`, `bounding_boxes`)
-. The `inputs` folder includes the input images each with shape `[256, 256]`. The `instances` folder holds the instance
-maps of a shape of `[N, 256, 256]` (`N` is the number of instances). The `classes` holds the semantic class information
-of each instance as a tensor of shape `[N]`. The `bounding_boxes` folder offers axis aligned bounding boxes for each
+. The `inputs` folder includes the input images each with the shape `[128, 128]`. The `instances` folder holds the instance
+maps of a shape of `[N, 128, 128]` (`N` is the number of instances). The `classes` holds the semantic class information
+of each instance as a tensor of shape `[N]`. The `bounding_boxes` folder offers axis-aligned bounding boxes for each
 instance of shape `[N, 4 (x0y0x1y1)]`. Every sample of the dataset has a `.pt` file in each of the four folders.
 The `.pt` file can directly be loaded as a PyTorch Tensor
 with [`torch.load(...)`](https://pytorch.org/docs/stable/generated/torch.load.html). For details on the data loading
@@ -261,7 +261,7 @@ yim_dataset.vis.plot_image_instances_bb_classes(
 )
 ```
 
-All plot function entail the parameter `show: bool` and `save: bool`. If `show=True` the plot is directly visualized by
+All plot functions entail the parameter `show: bool` and `save: bool`. If `show=True` the plot is directly visualized by
 calling `plt.show()`. If you want to save the plot to a file set `save=True` and provide the path and file
 name (`file_path: str`).
 
@@ -271,7 +271,7 @@ An example use of all visualization functions is provided in [`example_vis.py`](
 
 **Note that there are also additional unlabeled data available from the same domain.** In the
 paper [Multi-StyleGAN: Towards Image-Based Simulation of Time-Lapse Live-Cell](https://christophreich1996.github.io/multi_stylegan/)
-we proposed an unlabeled dataset of ~9k images (sequences) of yeast cell in microstructures. **The dataset is available at
+we proposed an unlabeled dataset of ~9k images (sequences) of yeast cells in microstructures. **The dataset is available at
 [TUdatalib](https://tudatalib.ulb.tu-darmstadt.de/handle/tudatalib/2880).** Please cite the following paper if you are
 using the unlabeled images in your research:
 
