@@ -290,7 +290,7 @@ using the unlabeled images in your research:
 We thank [Christoph Hoog Antink](https://www.etit.tu-darmstadt.de/kismed/team_kismed/hoog_antink.de.jsp) for insightful
 discussions, [Klaus-Dieter Voss](https://www.bcs.tu-darmstadt.de/team_sos/mitarbeiterliste_sos.en.jsp) for aid with the
 microfluidics fabrication, [Jan Basrawi](https://www.linkedin.com/in/jan-basrawi-b90117144/) for contributing to data
-labelling, and [Robert Sauerborn](https://github.com/R98) for aid with setting up the project page.
+labeling, and [Robert Sauerborn](https://github.com/R98) for aid with setting up the project page.
 
 Credit to [TorchMetrics](https://github.com/Lightning-AI/torchmetrics) (Lightning AI)
 , [Kornia](https://github.com/kornia/kornia), and [PyTorch](https://github.com/pytorch/pytorch) for providing the basis
