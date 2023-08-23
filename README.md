@@ -15,7 +15,7 @@
 </p>
 
 <p align="center">
-  This repository includes the <b>official</b> and <b>maintained</b> <a href="https://pytorch.org/">PyTorch</a> <b>validation</b> (+ data loading & visualization) code of the Yeast in Microstructures dataset proposed in <a href="https://arxiv.org">An Instance Segmentation Dataset of Yeast Cells in Microstructures</a>.
+  This repository includes the <b>official</b> and <b>maintained</b> <a href="https://pytorch.org/">PyTorch</a> <b>validation</b> (+ data loading & visualization) code of the Yeast in Microstructures dataset proposed in <a href="https://arxiv.org/abs/2304.07597">An Instance Segmentation Dataset of Yeast Cells in Microstructures</a>.
 </p>
 
 ```
