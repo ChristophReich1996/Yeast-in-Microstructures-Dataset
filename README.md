@@ -2,6 +2,7 @@
 
 [![arXiv](https://img.shields.io/badge/cs.CV-arXiv%3A2304.07597-B31B1B.svg)](https://arxiv.org/abs/2304.07597)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
+[![Framework](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?&logo=PyTorch&logoColor=white)](https://pytorch.org/)
 
 **[Christoph Reich](https://christophreich1996.github.io)
 , [Tim Prangemeier](https://scholar.google.com/citations?user=Ut23u2YAAAAJ&hl=en)
