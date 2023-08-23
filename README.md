@@ -39,8 +39,7 @@ development of new cell segmentation approaches.*
         title={{An Instance Segmentation Dataset of Yeast Cells in Microstructures}},
         author={Reich, Christoph and Prangemeier, Tim and Fran{\c{c}}ani, Andr{\'e} O and Koeppl, Heinz},
         booktitle={{International Conference of the IEEE Engineering in Medicine and Biology Society (EMBC)}},
-        year={2023},
-        organization={IEEE}
+        year={2023}
 }
 ```
 
