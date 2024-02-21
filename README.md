@@ -23,6 +23,8 @@
 wget https://tudatalib.ulb.tu-darmstadt.de/bitstream/handle/tudatalib/3799/yeast_cell_in_microstructures_dataset.zip
 ```
 
+**Update: We have released a high-resolution dataset of our microscopy images with panoptic annotations at ICCVW 2023. Check out our TYC dataset [project page](https://christophreich1996.github.io/tyc_dataset/)!**
+
 ## Abstract
 
 *Extracting single-cell information from microscopy data requires accurate instance-wise segmentations. Obtaining
